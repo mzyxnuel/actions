@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### 🐛 Bug Fixes
+
+- *(git-cliff)* Update commit message
+
+### 📚 Documentation
+
+- *(changelog)* Action changelog update
+
 ### Enhance
 
 - *(git-cliff)* Added changelog action
